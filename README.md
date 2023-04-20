@@ -1,6 +1,7 @@
-# Helloo, Welcome to my profile!
+# Hello, Welcome to my profile!
 
-I'm a brazilian developer and I like make **projects**.
+I'm a brazilian developer, programmer, composer, animator and artist.
+I like make games.
 
 I work with **Haxe** and **Haxeflixel**.
 
