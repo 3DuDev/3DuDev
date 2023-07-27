@@ -1,4 +1,4 @@
-# Hello, Welcome to my profile!
+# Oh, hello!
 
 I'm a brazilian developer, programmer, composer, animator and artist.
 I like make games.
