@@ -1,12 +1,9 @@
-# Oh, hello!
+# Oiii!
 
-I'm a brazilian developer, programmer, composer, animator and artist.
-I like make games.
+Eu sou um desenvolvedor de jogos iniciante! Eu uso o framework HaxeFlixel para a produção dos meus jogos!
 
-I work with **Haxe** and **HaxeFlixel**.
-
-<div style="displey: inline_block"><br>
-  <img align="center" alt="Haxe-Icon"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg"</img>
-</div>
-
+🖥️ | Desenvolvedor
+🖌️ | Artista e animador
+🎵 | Compositor
+🎮 | Fã de jogos de plataforma
 #
